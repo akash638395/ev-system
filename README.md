@@ -4,10 +4,10 @@
 
 | Field           | Details                                        |
 | --------------- | ---------------------------------------------- |
-| Author          | Your Name                                      |
-| Register Number | Your Register Number                           |
+| Author          | AKASH A                                    |
+| Register Number | 711524BEE001                          |
 | Course          | B.E. EEE                                       |
-| College         | Your College Name                              |
+| College         | KIT-KALAINGARKARUNIADHI INSTITUE OF TECHNOLOGY                              |
 | Subject         | Object-Oriented Programming using Java         |
 | Project         | EV Charging Station Booking and Billing System |
 
